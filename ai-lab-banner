@@ -1,0 +1,94 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6EDDF"/>
+      <stop offset="0.55" stop-color="#EFE2CF"/>
+      <stop offset="1" stop-color="#E4D5C1"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" stroke="#746B5E" stroke-opacity="0.16" stroke-width="1"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#263B28" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect x="16" y="14" width="1168" height="332" rx="30" fill="url(#paper)" filter="url(#shadow)"/>
+  <rect x="16" y="14" width="1168" height="332" rx="30" fill="url(#grid)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;28 0;0 0" dur="24s" repeatCount="indefinite"/>
+  </rect>
+
+  <g font-family="Fira Code, Consolas, monospace" fill="#2F5D3A">
+    <text x="82" y="92" font-size="42" font-weight="700">Laraib's AI Garden</text>
+    <text x="84" y="132" font-size="18" opacity="0.88">BSc Computer Science · CGPA 3.91 · Summa Cum Laude · IST Islamabad</text>
+    <text x="84" y="162" font-size="18" opacity="0.88">Published Researcher · International Conference Speaker · Valedictorian</text>
+    <text x="84" y="212" font-size="18">○ research notes</text>
+    <text x="84" y="242" font-size="18">○ computer vision</text>
+    <text x="84" y="272" font-size="18">○ full-stack builds</text>
+  </g>
+
+  <g font-family="Fira Code, Consolas, monospace" font-size="16" font-weight="700">
+    <rect x="82" y="292" width="166" height="38" rx="19" fill="#2F5D3A"/>
+    <text x="112" y="316" fill="#F8F1E7">Portfolio</text>
+    <rect x="266" y="292" width="158" height="38" rx="19" fill="#496B4A"/>
+    <text x="307" y="316" fill="#F8F1E7">LinkedIn</text>
+    <rect x="442" y="292" width="138" height="38" rx="19" fill="#C2A878"/>
+    <text x="489" y="316" fill="#2F3E2F">Email</text>
+  </g>
+
+  <g fill="#6B7F59">
+    <path d="M636 47 C653 21 668 37 658 61 C688 51 693 77 663 81 C679 106 654 117 643 89 C623 112 601 96 626 77 C596 69 606 43 636 47Z">
+      <animateTransform attributeName="transform" type="rotate" values="-2 644 72;6 644 72;-2 644 72" dur="5s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="644" cy="73" r="8" fill="#F8F1E7"/>
+  </g>
+
+  <g fill="#C2A878" opacity="0.9">
+    <path d="M1038 72 L1052 102 L1085 106 L1060 128 L1067 160 L1038 144 L1009 160 L1016 128 L991 106 L1024 102Z">
+      <animate attributeName="opacity" values="0.45;1;0.45" dur="3.4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M706 260 L716 282 L740 286 L722 302 L727 326 L706 314 L685 326 L690 302 L672 286 L696 282Z">
+      <animate attributeName="opacity" values="1;0.42;1" dur="4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g stroke="#2F5D3A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.84">
+    <rect x="822" y="58" width="230" height="146" rx="18" fill="#F8F1E7" fill-opacity="0.64"/>
+    <path d="M862 162 C862 114 886 88 938 88 C990 88 1014 114 1014 162"/>
+    <circle cx="910" cy="136" r="6" fill="#2F5D3A"/>
+    <circle cx="966" cy="136" r="6" fill="#2F5D3A"/>
+    <path d="M928 156 C938 164 948 164 958 156"/>
+    <path d="M892 96 L870 64"/>
+    <path d="M984 96 L1010 64"/>
+  </g>
+
+  <g transform="translate(842 226)">
+    <circle cx="30" cy="30" r="23" fill="#2F5D3A"/>
+    <circle cx="65" cy="28" r="26" fill="#3F704C"/>
+    <circle cx="100" cy="36" r="22" fill="#2F5D3A"/>
+    <circle cx="54" cy="52" r="28" fill="#436C45"/>
+    <circle cx="42" cy="30" r="4" fill="#F8F1E7"/>
+    <circle cx="57" cy="30" r="4" fill="#F8F1E7"/>
+    <circle cx="78" cy="32" r="4" fill="#F8F1E7"/>
+    <circle cx="93" cy="32" r="4" fill="#F8F1E7"/>
+    <circle cx="36" cy="35" r="2" fill="#2F5D3A"/>
+    <circle cx="51" cy="35" r="2" fill="#2F5D3A"/>
+    <circle cx="72" cy="37" r="2" fill="#2F5D3A"/>
+    <circle cx="87" cy="37" r="2" fill="#2F5D3A"/>
+    <animateTransform attributeName="transform" type="translate" values="842 226;842 218;842 226" dur="3.8s" repeatCount="indefinite"/>
+  </g>
+
+  <g stroke="#6B7F59" stroke-width="2" stroke-linecap="round" opacity="0.78">
+    <path d="M640 208 C682 178 720 192 752 162 C772 142 798 142 826 156"/>
+    <path d="M654 200 C652 184 664 176 680 178"/>
+    <path d="M732 176 C728 160 740 152 756 156"/>
+    <path d="M796 154 C794 138 806 130 822 134"/>
+  </g>
+
+  <g font-family="Fira Code, Consolas, monospace" font-size="15" fill="#58705A" opacity="0.9">
+    <text x="826" y="224">PyTorch</text>
+    <text x="826" y="248">FastAPI</text>
+    <text x="940" y="224">React</text>
+    <text x="940" y="248">YOLO</text>
+  </g>
+</svg>
