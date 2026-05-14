@@ -15,11 +15,17 @@
 
 <img src="./assets/ai-lab-banner.svg" width="100%" alt="Animated AI lab banner" />
 
+<!-- <img src="./assets/pinterest-border.svg" width="100%" alt="Animated botanical Pinterest-style border" /> -->
+
 </div>
 
 ---
 
 <!-- ── ABOUT ─────────────────────────────────────────────── -->
+
+<div align="center">
+  <img src="./assets/pinterest-divider.svg" width="92%" alt="Animated soft green divider" />
+</div>
 
 ## `$ whoami`
 
@@ -54,6 +60,10 @@
 
 <!-- ── EXPERIENCE ──────────────────────────────────────────── -->
 
+<div align="center">
+  <img src="./assets/pinterest-divider.svg" width="92%" alt="Animated soft green divider" />
+</div>
+
 ## Experience
 
 | Period | Role | Organisation |
@@ -85,6 +95,10 @@
 ---
 
 <!-- ── FEATURED PROJECTS ───────────────────────────────────── -->
+
+<div align="center">
+  <img src="./assets/pinterest-divider.svg" width="92%" alt="Animated soft green divider" />
+</div>
 
 ## Featured Projects
 
@@ -153,6 +167,10 @@ Health app concept with Biometric Stress Assessment & VR Meditation. Prototyped 
 ---
 
 <!-- ── TECH STACK ──────────────────────────────────────────── -->
+
+<div align="center">
+  <img src="./assets/pinterest-divider.svg" width="92%" alt="Animated soft green divider" />
+</div>
 
 ## Tech Stack
 
@@ -262,6 +280,10 @@ Health app concept with Biometric Stress Assessment & VR Meditation. Prototyped 
 ---
 
 <!-- ── CONNECT ──────────────────────────────────────────────── -->
+
+<div align="center">
+  <img src="./assets/pinterest-divider.svg" width="92%" alt="Animated soft green divider" />
+</div>
 
 ## Let's Connect
 
