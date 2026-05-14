@@ -1,0 +1,54 @@
+<svg width="1200" height="190" viewBox="0 0 1200 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1200" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6EDDF"/>
+      <stop offset="0.58" stop-color="#EFE2CF"/>
+      <stop offset="1" stop-color="#E4D5C1"/>
+    </linearGradient>
+    <filter id="softShadow" x="-10%" y="-30%" width="120%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#263B28" flood-opacity="0.12"/>
+    </filter>
+    <clipPath id="clip">
+      <rect x="18" y="16" width="1164" height="158" rx="30"/>
+    </clipPath>
+  </defs>
+
+  <rect x="18" y="16" width="1164" height="158" rx="30" fill="url(#paper)" filter="url(#softShadow)"/>
+  <g clip-path="url(#clip)">
+    <path d="M18 20 C86 8 142 28 130 70 C118 112 62 102 72 148 C76 168 60 180 18 174Z" fill="#9BB7A7" opacity="0.72">
+      <animateTransform attributeName="transform" type="translate" values="0 0;7 -4;0 0" dur="8.4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M1182 20 C1118 16 1076 42 1090 82 C1104 122 1154 112 1182 154Z" fill="#B7C9A4" opacity="0.74">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-8 5;0 0" dur="9.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M424 16 C478 56 534 56 586 24 C610 9 644 8 682 16Z" fill="#8FAE9E" opacity="0.62">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 6;0 0" dur="10s" repeatCount="indefinite"/>
+    </path>
+    <path d="M782 174 C832 130 894 128 946 160 C970 176 1002 178 1030 174Z" fill="#B7C9A4" opacity="0.62">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="8.8s" repeatCount="indefinite"/>
+    </path>
+
+    <g fill="none" stroke="#746B5E" stroke-linecap="round" stroke-width="1.5" opacity="0.72">
+      <path d="M70 34 C92 50 88 75 66 88 C48 99 52 121 72 132">
+        <animate attributeName="d" values="M70 34 C92 50 88 75 66 88 C48 99 52 121 72 132;M74 31 C96 50 88 72 68 88 C51 101 56 120 76 134;M70 34 C92 50 88 75 66 88 C48 99 52 121 72 132" dur="6.8s" repeatCount="indefinite"/>
+      </path>
+      <path d="M1026 52 C1064 34 1116 42 1144 75"/>
+      <path d="M1066 136 C1092 144 1120 140 1148 124"/>
+      <path d="M126 150 C164 170 210 170 252 146"/>
+      <path d="M362 36 C384 24 414 26 438 42" stroke="#F8F1E7"/>
+      <path d="M52 84 C76 78 92 84 91 98 C90 110 76 116 58 118" stroke="#F8F1E7"/>
+    </g>
+
+    <g stroke="#2F5D3A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.8">
+      <path d="M992 126 C1006 100 1028 94 1040 108 C1050 120 1038 139 1014 141"/>
+      <path d="M1014 141 C1028 154 1054 158 1070 144"/>
+      <path d="M1012 142 C1016 118 1008 96 990 78"/>
+      <path d="M1000 104 C982 96 970 98 964 110"/>
+      <path d="M1008 120 C990 118 976 124 970 136"/>
+      <circle cx="1014" cy="142" r="12" fill="none"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="4.8s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <rect x="18" y="16" width="1164" height="158" rx="30" stroke="#746B5E" stroke-opacity="0.24" stroke-width="2"/>
+</svg>

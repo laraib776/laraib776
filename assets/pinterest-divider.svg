@@ -1,0 +1,19 @@
+<svg width="1200" height="82" viewBox="0 0 1200 82" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M90 40 C220 8 342 72 472 40 C610 6 722 76 860 40 C966 14 1056 24 1110 40" stroke="#746B5E" stroke-width="1.6" stroke-linecap="round" opacity="0.58">
+    <animate attributeName="d" values="M90 40 C220 8 342 72 472 40 C610 6 722 76 860 40 C966 14 1056 24 1110 40;M90 42 C222 18 342 62 472 38 C608 14 724 68 860 42 C966 18 1056 30 1110 38;M90 40 C220 8 342 72 472 40 C610 6 722 76 860 40 C966 14 1056 24 1110 40" dur="7.6s" repeatCount="indefinite"/>
+  </path>
+  <g opacity="0.75">
+    <path d="M76 18 C118 4 152 18 144 44 C138 66 104 63 88 78 C76 68 62 48 76 18Z" fill="#9BB7A7">
+      <animateTransform attributeName="transform" type="translate" values="0 0;6 3;0 0" dur="6.5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M1036 14 C1080 4 1124 18 1124 46 C1124 72 1082 66 1058 78 C1040 60 1022 36 1036 14Z" fill="#B7C9A4">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-7 -2;0 0" dur="7.2s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="172" cy="47" r="12" fill="#C2A878">
+      <animate attributeName="opacity" values="0.45;0.95;0.45" dur="3.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1006" cy="36" r="9" fill="#F8F1E7" stroke="#746B5E" stroke-opacity="0.35">
+      <animate attributeName="opacity" values="0.9;0.42;0.9" dur="4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
